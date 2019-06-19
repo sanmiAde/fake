@@ -1,0 +1,14 @@
+{
+  "posts1": [
+    { "id": 1, "title": "Post a" },
+    { "id": 2, "title": "Post b" },
+    { "id": 3, "title": "Post c" }
+],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
